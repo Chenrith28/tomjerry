@@ -1,0 +1,92 @@
+body{
+ text-align: center;
+  margin: 0;
+}
+.top-container {
+  background-color: #abf0e9;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  color: #ffa299;
+
+}
+h2{
+  font-family: 'Rubik', sans-serif;
+  color:  #abf0e9;
+}
+h3{
+color: #c060a1;
+}
+p{
+  font-family: sans-serif;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.mountain{
+ right: 500px;
+ left: 500px;
+}
+
+hr{
+  border: dotted 6px ;
+  border-bottom: none;
+  width: 8%;
+}
+h4{
+  font-family: sans-serif;
+  color: #007892;
+}
+.website{
+  background-color: #66BFBF;
+  padding:40px 0 20px;
+  color:  white;
+}
+a{
+  color:  #abf0e9;
+}
+
+.contact{
+  width: 40%;
+  margin: 40px auto 40px auto;
+}
+.button {
+  background-color: #11cdd4; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button:hover {
+  background-color: #30e3cb; /* Green */
+  color: white;
+}
+.tom{
+  font-family: 'Dancing Script', cursive;
+  color: #f57b51;
+  font-size: 70px;
+  text-decoration: none;
+}
